@@ -1,8 +1,11 @@
-# EmilieBuilds — AI Product Playbook
+# EmilieBuilds — AI Product Playbooks
 
-A rigorous, framework-mapped playbook for taking an AI-powered product from **problem to live to well-operated** — written for startup and scale-up product teams.
+Two rigorous, framework-mapped playbooks for startup and scale-up product teams:
 
-Every step in this playbook is traceable to a recognised source. When someone asks *"says who?"*, the answer is on the page.
+1. **[Building an AI product](playbook/00-overview.md)** — taking an AI-powered product from problem to live to well-operated. AI is in the thing you ship.
+2. **[Building product with AI](playbook-with-ai/00-overview.md)** — how a team works when AI tools help you research, design, code and operate. AI is in how you build.
+
+Every step in both is traceable to a recognised source. When someone asks *"says who?"*, the answer is on the page.
 
 ## The sources
 
@@ -16,19 +19,21 @@ Every step in this playbook is traceable to a recognised source. When someone as
 
 See [frameworks.md](frameworks.md) for a plain-English breakdown of each source's key points.
 
-## The lifecycle
+## The lifecycle (shared by both playbooks)
 
-| Phase | Question it answers |
-|---|---|
-| [1. Frame the problem](playbook/01-frame.md) | Is this worth building, and does it need AI at all? |
-| [2. Govern before you build](playbook/02-govern.md) | Who is accountable, and what are the rules? |
-| [3. Design the solution](playbook/03-design.md) | What's the simplest pattern that could work? |
-| [4. Build](playbook/04-build.md) | How do we build so we can ship small and often? |
-| [5. Evaluate](playbook/05-evaluate.md) | How do we know it works — and fails safely? |
-| [6. Launch](playbook/06-launch.md) | How do we go live without betting everything on day one? |
-| [7. Operate and improve](playbook/07-operate.md) | How do we keep it good after launch? |
+Both playbooks use the same seven phases. The middle column maps them to standard product lifecycle language.
 
-Start with the [overview](playbook/00-overview.md) for the full map and the step-by-step traceability table.
+| Phase | In standard terms | Question it answers |
+|---|---|---|
+| 1. Frame the problem | Define | Is this worth building, and does it need AI at all? |
+| 2. Govern before you build | Plan | Who is accountable, and what are the rules? |
+| 3. Design the solution | Design | What's the simplest approach that could work? |
+| 4. Build | Build | How do we ship small and often? |
+| 5. Evaluate | Verify / Test | How do we know it works, and fails safely? |
+| 6. Launch | Release | How do we go live without betting everything on day one? |
+| 7. Operate and improve | Operate / Run | How do we keep it good after launch? |
+
+Start with each playbook's overview: [Building an AI product](playbook/00-overview.md) · [Building product with AI](playbook-with-ai/00-overview.md)
 
 ## Templates
 
@@ -36,6 +41,7 @@ Fill-in artefacts, used at the phase where they earn their place:
 
 - [Problem one-pager](templates/problem-one-pager.md) — Phase 1
 - [Risk register](templates/risk-register.md) — Phase 2 onwards
+- [Team AI-use policy](templates/ai-use-policy.md) — Phase 2 of *Building product with AI*
 - [Eval plan](templates/eval-plan.md) — Phases 3–5
 - [Launch checklist](templates/launch-checklist.md) — Phase 6
 
