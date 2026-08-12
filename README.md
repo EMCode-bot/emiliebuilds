@@ -1,4 +1,4 @@
-# EmilieBuilds — AI Product Playbooks
+**AI Product Playbook**
 
 Two rigorous, framework-mapped playbooks for startup and scale-up product teams:
 
