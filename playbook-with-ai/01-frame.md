@@ -18,7 +18,10 @@
 
 ## Exit criteria
 
-Same as the [core playbook Phase 1](../playbook/01-frame.md), plus:
-
+- [ ] Problem one-pager exists and someone who actually has the problem agrees it's real
+- [ ] Success metrics are numbers with dates, not vibes
+- [ ] Go/no-go decision recorded, with an owner
 - [ ] Every AI-synthesised claim in the one-pager traces to a real input you can point at
 - [ ] No identifiable customer data went into any prompt (or your policy explicitly allowed it)
+
+Building an AI product as well as building with AI? Its framing phase has extra checks (does this need AI at all, who could be harmed, regulatory screening). See the companion playbook: [Building an AI product, Phase 1](../playbook/01-frame.md).

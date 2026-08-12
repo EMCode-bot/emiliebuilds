@@ -24,8 +24,8 @@
 
 ## Exit criteria
 
-Same as the [core playbook Phase 4](../playbook/04-build.md), plus:
-
+- [ ] CI runs tests on every merge, and main is always in a shippable state
 - [ ] Conventions file exists and AI sessions use it
 - [ ] No merged change bigger than the team can genuinely review
 - [ ] Every merge has a named human who understands and owns it
+- [ ] Secrets live in a secret manager, never in code or prompts

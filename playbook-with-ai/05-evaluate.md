@@ -21,9 +21,8 @@
 
 ## Exit criteria
 
-Same as the [core playbook Phase 5](../playbook/05-evaluate.md), plus:
-
 - [ ] Test criteria written by a human; tests reviewed, not just generated
+- [ ] The failure modes were tested, not just the happy path
 - [ ] Every change had at least one human review pass
 - [ ] Security scanning runs in CI on all code, whoever wrote it
 - [ ] ⚕ Regulated paths have recorded human review

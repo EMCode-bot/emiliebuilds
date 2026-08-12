@@ -18,8 +18,9 @@
 
 ## Exit criteria
 
-Same as the [core playbook Phase 3](../playbook/03-design.md), plus:
-
 - [ ] At least two approaches were spiked before choosing
+- [ ] The chosen design has a decision note (what we chose, what we rejected, why), signed by a human
 - [ ] Prototype code is deleted or clearly quarantined from production
-- [ ] Design decision note exists, signed by a human
+- [ ] The real holes AI found in the design are recorded, with an owner for each
+
+Designing an AI product? Its design phase has extra steps (choosing the simplest AI pattern, placing human checkpoints, designing for wrong answers). See the companion playbook: [Building an AI product, Phase 3](../playbook/03-design.md).
