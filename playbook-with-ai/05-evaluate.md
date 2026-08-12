@@ -26,3 +26,5 @@
 - [ ] Every change had at least one human review pass
 - [ ] Security scanning runs in CI on all code, whoever wrote it
 - [ ] ⚕ Regulated paths have recorded human review
+
+Want more depth on test sets, grading methods and the classic traps? See the [evals deep-dive](../deep-dives/evals.md).

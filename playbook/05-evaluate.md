@@ -36,3 +36,5 @@ A demo proves the product *can* work. An eval proves it *usually* works, and tel
 ## Artefact
 
 Completed [eval plan](../templates/eval-plan.md) with results — this becomes launch evidence.
+
+Want more depth on test sets, grading methods and the classic traps? See the [evals deep-dive](../deep-dives/evals.md).

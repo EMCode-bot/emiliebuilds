@@ -2,6 +2,11 @@
 
 These playbooks preach a review cadence, so they keep one. Reviewed quarterly, or when a source framework or major AI development practice changes, whichever comes first. Every meaningful change lands here.
 
+## v0.3 · August 2026
+
+- Added the **[evals deep-dive](deep-dives/evals.md)**: test-set construction, three grading methods, honest thresholds, evals as CI infrastructure, and the five classic traps.
+- Added the **pre-PMF fast path** to the README: the five things to do before product-market-fit, and explicit permission to skip the rest (except the ⚕ regulated overlay, which applies at any stage).
+
 ## v0.2 · August 2026
 
 - Added the second playbook, **Building product with AI**: seven phases on AI-assisted ways of working, anchored on DORA's AI adoption findings.

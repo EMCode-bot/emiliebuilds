@@ -7,6 +7,18 @@ Two rigorous, framework-mapped playbooks for startup and scale-up product teams:
 
 Every step in both is traceable to a recognised source. When someone asks *"says who?"*, the answer is on the page.
 
+## ⚡ Pre-product-market-fit? Do only these five things
+
+The full playbooks assume you have something worth protecting. If you're still searching for product-market-fit, most process is premature. Do these five and skip the rest guilt-free:
+
+1. **Write the problem one-pager.** One page, real evidence, a number for success. The cheapest way to avoid building the wrong thing fast. *(Phase 1, [template](templates/problem-one-pager.md))*
+2. **Adopt two data rules and name one owner.** No identifiable customer data in prompts. No secrets, ever. One person who can say no. That's your entire governance layer for now. *(Phase 2)*
+3. **Build the simplest thing that could work.** Single prompt before workflow, workflow before agent. Complexity is a tax you pay every day afterwards. *(Phase 3)*
+4. **Keep a 20-example eval set.** Real inputs, pass/fail criteria, run it before you ship changes. It grows into a company asset. *(Phase 5, [evals deep-dive](deep-dives/evals.md))*
+5. **Have a kill switch and read the feedback.** Know how to turn it off in minutes, and look at what users say every day. *(Phases 6 and 7)*
+
+Everything else (impact assessments, risk registers, quarterly cadences) earns its place when you have users, revenue or a regulator. One exception never waits: **⚕ if you're in a regulated domain, the overlay applies at any stage.** A pre-PMF clinical tool is still a clinical tool.
+
 ## The sources
 
 | Source | What it is | What we take from it |
@@ -44,6 +56,10 @@ Fill-in artefacts, used at the phase where they earn their place:
 - [Team AI-use policy](templates/ai-use-policy.md) — Phase 2 of *Building product with AI*
 - [Eval plan](templates/eval-plan.md) — Phases 3–5
 - [Launch checklist](templates/launch-checklist.md) — Phase 6
+
+## Deep-dives
+
+- [Evals](deep-dives/evals.md) — building test sets, three grading methods, honest thresholds, and the five classic traps
 
 ## How to use this
 
