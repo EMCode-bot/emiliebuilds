@@ -1,22 +1,37 @@
 # Changelog
 
-These playbooks preach a review cadence, so they keep one. Reviewed quarterly, or when a source framework or major AI development practice changes, whichever comes first. Every meaningful change lands here.
+All notable changes to the EmilieBuilds AI Product Playbooks are recorded here.
+The playbooks are reviewed at least quarterly, because the tools change monthly.
 
-## v0.3 · August 2026
+## [0.4.0] — 2026-08-13
 
-- Added the **[evals deep-dive](deep-dives/evals.md)**: test-set construction, three grading methods, honest thresholds, evals as CI infrastructure, and the five classic traps.
-- Added the **pre-PMF fast path** to the README: the five things to do before product-market-fit, and explicit permission to skip the rest (except the ⚕ regulated overlay, which applies at any stage).
+### Added
+- LICENSE (CC BY 4.0) with framework-ownership scope note
 
-## v0.2 · August 2026
+### Changed
+- Changelog adopts the Keep a Changelog format
 
-- Added the second playbook, **Building product with AI**: seven phases on AI-assisted ways of working, anchored on DORA's AI adoption findings.
-- Added the **team AI-use policy** template, with green/amber/red data rules.
-- Made every phase page fully standalone: complete exit criteria on every page, cross-links demoted to optional extras.
-- README now presents both playbooks, with the mapping to standard lifecycle terms (Define, Plan, Design, Build, Verify, Release, Operate).
-- Notion site restructured: cover page with a sub-page per playbook, plus an About page.
+## [0.3.0] — 2026-08-12
 
-## v0.1 · August 2026
+### Added
+- Evals deep-dive: test-set construction, three grading methods, honest thresholds, evals as CI infrastructure, and the five classic traps
+- Pre-PMF fast path in the README: the five things to do before product-market-fit, and explicit permission to skip the rest (except the ⚕️ regulated overlay, which applies at any stage)
 
-- Initial release: **Building an AI product**, seven phases from problem to live to operated.
-- Framework breakdowns: NIST AI RMF, ISO/IEC 42001, DORA/Accelerate, Anthropic's published guidance, plus the ⚕ regulated overlay (EU AI Act, TGA/FDA).
-- Four templates: problem one-pager, risk register, eval plan, launch checklist.
+## [0.2.0] — 2026-08-12
+
+### Added
+- Second playbook, **Building product with AI**: seven phases on AI-assisted ways of working, anchored on DORA's AI adoption findings
+- Team AI-use policy template, with green/amber/red data rules
+
+### Changed
+- Every phase page made fully standalone: complete exit criteria on every page, cross-links demoted to optional extras
+- README presents both playbooks, with the mapping to standard lifecycle terms (Define, Plan, Design, Build, Verify, Release, Operate)
+- Republished under the EmilieBuilds account as the maintained home of the project
+
+## [0.1.0] — 2026-08-12
+
+### Added
+- Initial release of **Building an AI product**: seven phases from problem to well-operated, with exit criteria
+- Templates: problem one-pager, risk register, eval plan, launch checklist
+- frameworks.md — source mapping to NIST AI RMF, ISO/IEC 42001, DORA, and Anthropic guidance
+- Regulated-domain overlay (⚕️) for clinical, financial and legal products

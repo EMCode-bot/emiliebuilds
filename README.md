@@ -71,4 +71,4 @@ Fill-in artefacts, used at the phase where they earn their place:
 
 ---
 
-*Maintained by EmilieBuilds. This playbook maps to the named frameworks; it does not reproduce their text. It is not legal or regulatory advice.*
+*Maintained by EmilieBuilds. Licensed under [CC BY 4.0](LICENSE) — share and adapt with credit. The playbooks map to the named frameworks; they do not reproduce their text. Not legal or regulatory advice.*
